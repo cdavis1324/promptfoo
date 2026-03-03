@@ -6,21 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.120.27](https://github.com/promptfoo/promptfoo/compare/0.120.26...0.120.27) (2026-03-03)
 
-
 ### Features
 
-* **eval-creator:** add yaml download and cli callout ([#7932](https://github.com/promptfoo/promptfoo/issues/7932)) ([c73c002](https://github.com/promptfoo/promptfoo/commit/c73c002fdd45bc116537c74711010877b05584a0))
-
+- **eval-creator:** add yaml download and cli callout ([#7932](https://github.com/promptfoo/promptfoo/issues/7932)) ([c73c002](https://github.com/promptfoo/promptfoo/commit/c73c002fdd45bc116537c74711010877b05584a0))
 
 ### Bug Fixes
 
-* **ci:** use npm ci for docs and site-tests jobs to fix serialize-javascript override ([#7952](https://github.com/promptfoo/promptfoo/issues/7952)) ([013f90d](https://github.com/promptfoo/promptfoo/commit/013f90d4b523f2a9dbcf7f1baec2724011d19953))
-* **deps:** resolve all npm audit vulnerabilities via overrides ([#7947](https://github.com/promptfoo/promptfoo/issues/7947)) ([0b94778](https://github.com/promptfoo/promptfoo/commit/0b94778e95aece10e9ce2dced40ea29a77a6bc49))
-* **deps:** update dependency @actions/github to v9 ([#7432](https://github.com/promptfoo/promptfoo/issues/7432)) ([efa1625](https://github.com/promptfoo/promptfoo/commit/efa16252995c847a99e6b4998c5663279c1d0bb2))
-* **deps:** update dependency minimatch to ^10.2.4 ([#7939](https://github.com/promptfoo/promptfoo/issues/7939)) ([639301f](https://github.com/promptfoo/promptfoo/commit/639301fcdbc252f27100e308d65218c28f202006))
-* **deps:** update github actions to v3 (major) ([#7946](https://github.com/promptfoo/promptfoo/issues/7946)) ([2a6600d](https://github.com/promptfoo/promptfoo/commit/2a6600d9d1317bd2763ff2e2bd006b1e0bb09aaf))
-* **deps:** update openai packages ([#7928](https://github.com/promptfoo/promptfoo/issues/7928)) ([9facd14](https://github.com/promptfoo/promptfoo/commit/9facd1494006001bdfb69dbd23673f19c20f44c5))
-* **redteam:** show pointer cursor on setup tabs and filters ([#7929](https://github.com/promptfoo/promptfoo/issues/7929)) ([bf43419](https://github.com/promptfoo/promptfoo/commit/bf43419a27581485f92acd6e7de333d55712ca86))
+- **ci:** use npm ci for docs and site-tests jobs to fix serialize-javascript override ([#7952](https://github.com/promptfoo/promptfoo/issues/7952)) ([013f90d](https://github.com/promptfoo/promptfoo/commit/013f90d4b523f2a9dbcf7f1baec2724011d19953))
+- **deps:** resolve all npm audit vulnerabilities via overrides ([#7947](https://github.com/promptfoo/promptfoo/issues/7947)) ([0b94778](https://github.com/promptfoo/promptfoo/commit/0b94778e95aece10e9ce2dced40ea29a77a6bc49))
+- **deps:** update dependency @actions/github to v9 ([#7432](https://github.com/promptfoo/promptfoo/issues/7432)) ([efa1625](https://github.com/promptfoo/promptfoo/commit/efa16252995c847a99e6b4998c5663279c1d0bb2))
+- **deps:** update dependency minimatch to ^10.2.4 ([#7939](https://github.com/promptfoo/promptfoo/issues/7939)) ([639301f](https://github.com/promptfoo/promptfoo/commit/639301fcdbc252f27100e308d65218c28f202006))
+- **deps:** update github actions to v3 (major) ([#7946](https://github.com/promptfoo/promptfoo/issues/7946)) ([2a6600d](https://github.com/promptfoo/promptfoo/commit/2a6600d9d1317bd2763ff2e2bd006b1e0bb09aaf))
+- **deps:** update openai packages ([#7928](https://github.com/promptfoo/promptfoo/issues/7928)) ([9facd14](https://github.com/promptfoo/promptfoo/commit/9facd1494006001bdfb69dbd23673f19c20f44c5))
+- **redteam:** show pointer cursor on setup tabs and filters ([#7929](https://github.com/promptfoo/promptfoo/issues/7929)) ([bf43419](https://github.com/promptfoo/promptfoo/commit/bf43419a27581485f92acd6e7de333d55712ca86))
 
 ## [0.120.26](https://github.com/promptfoo/promptfoo/compare/0.120.25...0.120.26) (2026-03-03)
 
